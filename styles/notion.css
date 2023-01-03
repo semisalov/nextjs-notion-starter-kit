@@ -133,7 +133,7 @@
 }
 
 .notion-hr {
-  margin: 2em 0;
+  margin: 1em 0;
 }
 
 @media only screen and (max-width: 920px) {
@@ -382,3 +382,9 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+
+.notion-block-eba6bf66f2494d3fba828c51676ff2d6 .notion-page-link {
+  justify-content: center;
+  padding: 2em;
+}
+

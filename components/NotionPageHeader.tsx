@@ -49,7 +49,6 @@ export const NotionPageHeader: React.FC<{
               }
             })
             .filter(Boolean)}
-          <select><option value="ua">ua</option><option value="en">en</option></select>
           {isSearchEnabled && <Search block={block} title={null} />}
         </div>
       </div>
